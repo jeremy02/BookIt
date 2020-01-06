@@ -11,7 +11,7 @@ The app was created to simulate all the system behind the UI kit in the link. Th
 The images below show the inspiration behind the concept app.
 Below is the whole process overview
 
-![](screenshot/mobile_overview.jpg)
+![](screenshots/mobile_overview.jpg)
 
 ## Notes
 Still in progress
